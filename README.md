@@ -1,10 +1,19 @@
-### Hi there 👋, my name is Lucas
+## Hi there 👋, my name is Lucas
 
-[![Spacelocust's GitHub stats](https://github-readme-stats.vercel.app/api?username=Spacelocust&theme=vue-dark&show_icons=true&hide_border=true)](https://github.com/Spacelocust/Spacelocust)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spacelocust&theme=vue-dark&hide_border=true)](https://github.com/Spacelocust/Spacelocust)
+French Developer.
+<br />
+<br />
+<b>Javascript Developer mostly,</b> proefficient in modern stacks like :  React.Js / Node.Js / VueJS etc.
+<br />
+<br />
+<b>I enjoying learning new technologies and new stuffs 👨‍💻
 
-- 📫 How to reach me: lucasboganin@hotmail.fr 
+<b> 📫 You can reach me at lucasboganin@hotmail.fr or at my [Linkedin account](https://www.linkedin.com/in/lucas-boganin-00bb6a1b5/)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucas-boganin-00bb6a1b5/)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='mail' height='40'>](mailto:lucasboganin@hotmail.fr)
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Spacelocust&show_icons=true&theme=gotham&show_icons=true&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spacelocust&theme=gotham&layout=compact" />
+</div>
