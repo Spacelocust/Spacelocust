@@ -9,8 +9,6 @@ French Developer.
 <br />
 <b>I enjoying learning new technologies and new stuffs 👨‍💻
 
-<b> 📫 You can reach me at lucasboganin@hotmail.fr or at my [Linkedin account](https://www.linkedin.com/in/lucas-boganin-00bb6a1b5/)
-
 ---
 
 <div>
